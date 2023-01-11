@@ -1,0 +1,43 @@
+
+body{
+    background-image: url('https://wallpapercave.com/wp/wp3088211.jpg');
+    background-size: cover  ;
+}
+.chronometr{
+    text-align: center;
+    color: darkred;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+.rolex{
+    width: 350px;
+    height: 350px;
+    border: 20px dashed darkred;
+    border-radius: 50%;
+    margin: auto;
+
+}
+h4{
+    font-family: 'Dancing Script', cursive;
+    line-height: 100px;
+    text-align: center;
+    font-size: 30px;
+    color: darkred ;
+}
+.duyme{
+    width: 75%;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.duyme>button{
+    width: 30%;
+    height: 40px;
+    border: none;
+    background-color: darkred;
+    color: white;
+    border-radius: 30px;
+}
